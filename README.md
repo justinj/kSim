@@ -1,3 +1,10 @@
+kSim
+----
+
+##URL Options
+-----------
+
+```
 &alg - algorithm input
 &colours - face colours (all six need to be specified for visualcube images to work)
 &solve - scramble,solve ,,,=splits
@@ -6,3 +13,4 @@
 &align - left,right,swap,centre
 &meepmode - enable meep mode
 &clear - clear local storage
+```
